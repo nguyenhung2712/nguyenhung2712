@@ -5,8 +5,8 @@
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=nguyenhung2712&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung2712&langs_count=4&theme=dracula)(https://github.com/anuraghazra/github-readme-stats)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nguyenhung2712&theme=radical&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung2712&langs_count=4&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
